@@ -2,6 +2,8 @@
 
 ## Check Cache Status
 
+  $ php bin/magento deploy:mode:show
+
   $ php bin/magento cache:status
 
 ## Disable Cache
