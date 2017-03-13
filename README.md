@@ -29,3 +29,7 @@
   $ php bin/magento cache:clean
 
   $ php bin/magento cache:flush
+
+## DI Compile
+
+  $ php bin/magento setup:di:compile
